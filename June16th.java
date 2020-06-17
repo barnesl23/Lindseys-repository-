@@ -16,7 +16,7 @@ Create a System.out.println
  */
 package com.company;
 import java.util.Scanner;
-public class June16th {
+public class DataType {
 public static void main(String [] args) {
     Scanner message = new Scanner(System.in);
     int i = 4;
